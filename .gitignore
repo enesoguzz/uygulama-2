@@ -1,0 +1,8 @@
+node_modules/
+dist/
+dist-onizleme/
+*.log
+.DS_Store
+.vite/
+android/
+ios/
